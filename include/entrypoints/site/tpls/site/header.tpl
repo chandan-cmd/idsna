@@ -30,7 +30,7 @@
 <body class="tg-home tg-homeone">
 
 
-<div  class="callright-box"><a  href="{$baseurl}contactu"><img src="assets/site/images/comp.png" /></a></div>
+<div  class="callright-box"><a  href="{$baseurl}contactus"><img src="assets/site/images/comp.png" /></a></div>
 	
 	<!--************************************
 			Wrapper Start
@@ -53,7 +53,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 						<div class="tg-logoandnoticeboard">
-							<strong class="tg-logo"><a href="index.html"><img src="images/logo.png" alt=""></a></strong>
+							<strong class="tg-logo"><a href="{$baseurl}home"><img src="images/logo.png" alt=""></a></strong>
 							<div class="tg-noticeboard hidden-xs">
 								
 								<figure><img src="assets/site/images/top.png" alt="image description"></figure>
