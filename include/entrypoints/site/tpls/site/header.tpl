@@ -30,7 +30,7 @@
 <body class="tg-home tg-homeone">
 
 
-<div  class="callright-box"><a  href="{$baseurl}contactu"><img src="assets/site/images/comp.png" /></a></div>
+<div  class="callright-box"><a  href="{$baseurl}contactus"><img src="assets/site/images/comp.png" /></a></div>
 	
 	<!--************************************
 			Wrapper Start
