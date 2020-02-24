@@ -30,7 +30,7 @@
 <body class="tg-home tg-homeone">
 
 
-<div  class="callright-box"><a  href="contact.html"><img src="assets/site/images/comp.png" /></a></div>
+<div  class="callright-box"><a  href="{$baseurl}contactu"><img src="assets/site/images/comp.png" /></a></div>
 	
 	<!--************************************
 			Wrapper Start
@@ -78,11 +78,11 @@
 								</div>
 								<div id="tg-navigation" class="collapse navbar-collapse tg-navigation">
 									<ul>
-										<li class="active"><a href="index.html">Home</a></li>
-										<li><a href="about-idsna.html">About Us</a></li>
-										<li><a href="services.html">Services</a></li>
-										<li><a href="gallery.html">Gallery</a></li>
-										<li><a href="contact.html">Contact Us</a></li>
+										<li class="active"><a href="{$baseurl}home">Home</a></li>
+										<li><a href="{$baseurl}aboutus">About Us</a></li>
+										<li><a href="{$baseurl}services">Services</a></li>
+										<li><a href="{$baseurl}gallery">Gallery</a></li>
+										<li><a href="{$baseurl}contactus">Contact Us</a></li>
 									</ul>
 								</div>
 							</nav>

@@ -9,7 +9,7 @@ class galleryController extends EntryPointController{
     }
     
     function getGalleryImage(){
-       global $db;
+       global $vjconfig,$db;
        $url=$vjconfig['baseurl'];
        $sql="select replace(file_path,"."'/var/www/html/idsna/',"."'$url'".") as path from media_files
               inner join gallery_images on
